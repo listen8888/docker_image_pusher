@@ -5,5 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist
-ghcr.io/monlor/xiaoya-alist,ghcr.io/monlor/xiaoya-metadata,ghcr.io/monlor/xiaoya-embyserver
+ghcr.io/monlor/xiaoya-alist
+ghcr.io/monlor/xiaoya-metadata
+ghcr.io/monlor/xiaoya-embyserver
 
